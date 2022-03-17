@@ -1,0 +1,64 @@
+.task-book {
+    /*border: 1px solid red;*/
+    width: 327px;
+    margin: 30px auto 0 auto;
+}
+
+.input-task {
+    position: relative;
+    border: 1px solid #000;
+    padding: 5px;
+    width: 315px;
+}
+
+.input-task input {
+    width: 300px;
+    padding: 5px;
+}
+
+.clear-input {
+    position: absolute;
+    top: 6px;
+    left: 291px;
+    background-color: #fff;
+    padding: 7px;
+}
+
+.clear-input:hover {
+    cursor: pointer;
+}
+
+.task {
+    position: relative;
+    border: 1px solid #000;
+    padding: 10px 5px;
+    width: 315px;
+    margin-top: -1px;
+}
+
+input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+.done {
+    text-decoration: line-through;
+    color: grey;
+    margin-left: 19px;
+}
+
+.delete-task {
+    position: absolute;
+    left: 300px;
+    top: 10px;
+    color: red;
+    font-weight: 700;
+}
+
+.delete-task:hover {
+    cursor: pointer;
+}
+
+.change-task {
+    font-size: 14px;
+    width: 305px;
+}
