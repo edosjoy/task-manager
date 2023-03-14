@@ -1,6 +1,6 @@
 # Task manager
 
-Чеклист https://edosjoy.github.io/task-manager/
+Deploy: https://edosjoy.github.io/task-manager/
 
 Одно из учебных заданий
 
